@@ -4,9 +4,7 @@
 "displayName": "IndieContruction Core Library",
 "description": "Central core library for IC engine core (only for custom packages test)",
 "unity": "2019.3",
-	"dependencies": {
-		"com.indiecontruction.lib-core": "https://github.com/IndieConstruction/LibCore.git"
-	},
+"dependencies": { },
 "keywords":[],
 "author": {
 	"name": "Paolo Bragonzi - Brago",
