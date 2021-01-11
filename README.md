@@ -1,0 +1,2 @@
+# LibCore
+Custom package test
